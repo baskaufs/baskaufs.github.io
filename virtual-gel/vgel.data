@@ -1,0 +1,29 @@
+pmaps.gif
+3
+pBR322 plasmid
+Bgl I digest
+234,2317,1810
+EcoR I digest
+4361
+Hinc II digest
+3314,1047
+Ple I digest
+1741,471,517,1632
+pcDNA3.1/CT-GFP plasmid
+AlwN I digest
+4661,1479
+AlwN I + EcoR I digest
+863,3798,1479
+Nco I digest
+546,1513,4081
+Sno I digset
+1246,4894
+Linear genomic clone
+BamH I digest
+200,2800,1000
+BamH I + EcoR I digest
+200,700,2100,1000
+Hind III digest
+500,200,1600,1700
+Pst I digest
+1200,800,2000
